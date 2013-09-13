@@ -1,0 +1,75 @@
+/*CSS overwrite*/
+body
+{
+	/*background-image: url('../pix/beige.png');*/
+	/*background-repeat: repeat-y;*/
+	background-color: #F5F5DC;
+}
+.navbar
+{
+	margin-left: 3%;
+	margin-top: 1%;
+}
+
+.carousel-control
+{
+	font-size: 8em;
+	padding-top: 1em;
+	color: black;
+	background-color: transparent;
+}
+
+.carousel-inner
+{
+	height: 35.4em;
+}
+
+.container
+{
+	margin-top: 3%;
+}
+
+.featuret
+{
+	margin-top: 15%;
+}
+
+.footer
+{
+	background-color: black;
+	margin-bottom: -5%;
+	margin-top: 15%;
+}
+
+#myCarousel
+{
+	/*height: 35.4em;*/
+	/*width: 70%;
+	margin-left: auto;
+	margin-right: auto;*/
+}
+
+.item img
+{
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (max-width: 767px){
+	.text-center-xs{
+		text-align: center;
+	}
+}
+
+@media (max-width: 991px){
+	.text-center-sm{
+		text-align: center;
+	}
+}
+
+.img-middle{
+	margin-right: auto;
+	margin-left: auto;
+}
