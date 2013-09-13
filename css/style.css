@@ -15,7 +15,6 @@ body
 {
 	font-size: 8em;
 	padding-top: 1em;
-	color: black;
 	background-color: transparent;
 }
 
@@ -72,4 +71,9 @@ body
 .img-middle{
 	margin-right: auto;
 	margin-left: auto;
+}
+
+.jumbotron h1
+{
+	/*padding-top: 2em;*/
 }
